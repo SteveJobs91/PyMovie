@@ -14,3 +14,5 @@ Open the terminal in this file using VSCode.
 Next, install MoviePy(which automatically installs NumPy, Decorator, and tqdm.) by typing "pip install moviepy" in the terminal. 
 Next, install PyGame by typing "pip install pygame" in the terminal. 
 Next, install ImageMagick from: https://imagemagick.org/script/download.php ImageMagick is optional as it will only be used if you want to add text to your videos. 
+
+We are planning a GUI version of PyMovie to be released in 2022.
