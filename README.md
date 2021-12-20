@@ -1,6 +1,8 @@
 #The PyMovie video editing software is a suite of video editing tools.
 
-#The PyMovie video editing software supports almost all the video and audio formats
+#The PyMovie video editing software supports almost all the video and audio formats.
+
+#The PyMovie video editing software also acts as a video editing module.
 
 The second beta of PyMovie is here with roating features, audio control features, and more.
 
